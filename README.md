@@ -1,8 +1,8 @@
 # Hackathon
 IIT BHU hackathon problem
 #Dare2Develop Team Details: -
-1. Snehil Agarwal
-2. Venkat Vedant Krishna Malviya
+1. Venkat Vedant Krishna Malviya
+2. Snehil Agarwal
 3. Tanmay Shukla
 4. Gaurav Singh
 
